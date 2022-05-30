@@ -10,8 +10,8 @@
 
 ## Roadmap of future improvements
 
-> Make a functional line bus selector
-> Make a selector that allow to show a especific bus
+* Make a functional line bus selector
+* Make a selector that allow to show a especific bus
 
 ## License 
 
