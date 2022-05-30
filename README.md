@@ -7,3 +7,13 @@
 ## How To Run
 
 ### To run a demo of this project the only thing you need to do is to download a copy of the files that are in this repo and open the file <u> 06_real-time_bus_tracker.html </u> in your browser. 
+
+## Roadmap of future improvements
+
+> Make a functional line bus selector
+> Make a selector that allow to show a especific bus
+
+## License 
+
+### This project was made under the MIT license
+
